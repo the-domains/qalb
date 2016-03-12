@@ -1,7 +1,7 @@
 name: qalb
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.752231631660834
+typography_spectrum: 0.80811
 title: Wisdom of Learning in Depth
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.7407598842401057
-  lightness: 0.9866658172104508
-  saturation: 0.7524271428119391
-  rhythmicContrast: 0.5148866376839578
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
