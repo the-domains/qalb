@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wisdom of Learning in Depth]]></title>
+        <description><![CDATA[Wisdom of Learning in Depth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Mar 2016 02:19:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Time, as it grows old, teaches all things! ]]></title>
+            <description><![CDATA[<article><h1>Time, as it grows old, teaches all things! </h1><p>One day Jalaluddin Rumi took all his students, disciples and devotees to a field. That was his way to teach them things of the beyond, through the examples of the world. He was not a theoretician, he was a very practical man. The disciples were thinking, “What could be the message, going to that faraway field… and why can’t he say it here?”</p></article>]]></description>
+            <link>undefinedtime-as-it-grows-old-teaches-all-things/index.html</link>
+            <guid isPermaLink="false">b45945d9-d927-49d2-a09c-bb409af6e6aa</guid>
+            <pubDate>Sat, 12 Mar 2016 02:19:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
